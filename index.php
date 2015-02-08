@@ -8,3 +8,5 @@ $loi=array(
 
 $l=$_GET["l"];
 echo"<u>Loi de la robotique N°".$l."</u>:<br/>".$loi[$l-1];
+
+echo ("Bonne correction les Github man");
