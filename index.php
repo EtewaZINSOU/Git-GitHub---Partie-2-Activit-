@@ -6,3 +6,5 @@ $loi=array(
    "Un robot doit protéger son existence tant que cette protection n'entre pas en conflit avec la Première ou la Deuxième loi."
 );
 
+$l=$_GET["l"];
+echo"<u>Loi de la robotique N°".$l."</u>:<br/>".$loi[$l-1];
