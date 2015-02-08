@@ -1,2 +1,2 @@
-# Git-GitHub---Partie-2-Activit-
+# Partie-2-Git
 Tutoriel du site de zéro pour apprendre   git
